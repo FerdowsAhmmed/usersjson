@@ -1,0 +1,45 @@
+{
+[
+    {
+        "id": 1,
+        "name": "Rafiq",
+        "blogTittle": "abc",
+        "authorImage": "https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?w=740&t=st=1680188164~exp=1680188764~hmac=a9a07a828b6622a62a9a8b361ea3f01a5501c35702c52878e9426b88b1ce8bbe",
+        "readTime": 4,
+        "pulishedDate": "2023-03-25",
+        "blogCoverImage": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=740&t=st=1680187948~exp=1680188548~hmac=c4cd275266bc06e092042659b4ab5c2fe011c4768d9940dd72c8fc186b323073",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 2,
+        "name": "Karim",
+        "blogTittle": "efgh",
+        "authorImage": "https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg?w=740&t=st=1680188188~exp=1680188788~hmac=09a7cf724be7f6c98b131b44a361e79b4385c1c63ae91249138942018a3a9366",
+        "readTime": 5,
+        "pulishedDate": "2023-03-23",
+        "blogCoverImage": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=996&t=st=1680187980~exp=1680188580~hmac=ad44ad9afffd57ee074115fc042a0cec5a65985467f84f1d1f2f44fd299385a6",
+       
+    },
+    {
+        "id": 3,
+        "name": "Jabbar",
+        "blogTittle": "ijkl",
+        "authorImage": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?w=740&t=st=1680188223~exp=1680188823~hmac=ecf3e18675a4df553e302bbc1629b12ee04c33e36dcb66759139d0383c185083",
+        "readTime": 4,
+        "pulishedDate": "2023-03-20",
+        "blogCoverImage": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010127.jpg?w=740&t=st=1680188027~exp=1680188627~hmac=997a778612062e8bf09c80a60c05af3ae14dbb6718bea4354def583ff9427b8f",
+        
+    },
+    {
+        "id": 4,
+        "name": "Salam",
+        "blogTittle": "mnop",
+        "authorImage": "https://img.freepik.com/free-photo/blonde-woman-wearing-polka-dot-blouse_273609-19686.jpg?w=740&t=st=1680188250~exp=1680188850~hmac=4f763834c4a3a364213767b5d5bcc2de5f8db744c4dc0097e0b9dbe96c7695fa",
+        "readTime": 5,
+        "pulishedDate": "2023-03-30",
+        "blogCoverImage": "https://img.freepik.com/free-vector/hackathon-isometric-landing-software-development_107791-2942.jpg?w=740&t=st=1680188080~exp=1680188680~hmac=634de30df1901866520b9d26f38b7a3d227db18c3189f81540406f20c7071990",
+        
+    }
+]
+}
